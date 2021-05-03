@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/remian-arts/static/css/main.94e61351.chunk.css",
-    "main.js": "/remian-arts/static/js/main.00ba76b3.chunk.js",
-    "main.js.map": "/remian-arts/static/js/main.00ba76b3.chunk.js.map",
+    "main.css": "/remian-arts/static/css/main.489f6616.chunk.css",
+    "main.js": "/remian-arts/static/js/main.7c6538b3.chunk.js",
+    "main.js.map": "/remian-arts/static/js/main.7c6538b3.chunk.js.map",
     "runtime-main.js": "/remian-arts/static/js/runtime-main.c82542b2.js",
     "runtime-main.js.map": "/remian-arts/static/js/runtime-main.c82542b2.js.map",
     "static/css/2.7fccbb15.chunk.css": "/remian-arts/static/css/2.7fccbb15.chunk.css",
-    "static/js/2.c5ac61c4.chunk.js": "/remian-arts/static/js/2.c5ac61c4.chunk.js",
-    "static/js/2.c5ac61c4.chunk.js.map": "/remian-arts/static/js/2.c5ac61c4.chunk.js.map",
+    "static/js/2.a093c6e1.chunk.js": "/remian-arts/static/js/2.a093c6e1.chunk.js",
+    "static/js/2.a093c6e1.chunk.js.map": "/remian-arts/static/js/2.a093c6e1.chunk.js.map",
     "index.html": "/remian-arts/index.html",
     "static/css/2.7fccbb15.chunk.css.map": "/remian-arts/static/css/2.7fccbb15.chunk.css.map",
-    "static/css/main.94e61351.chunk.css.map": "/remian-arts/static/css/main.94e61351.chunk.css.map",
-    "static/js/2.c5ac61c4.chunk.js.LICENSE.txt": "/remian-arts/static/js/2.c5ac61c4.chunk.js.LICENSE.txt",
-    "static/media/00.208733a6.webp": "/remian-arts/static/media/00.208733a6.webp",
+    "static/css/main.489f6616.chunk.css.map": "/remian-arts/static/css/main.489f6616.chunk.css.map",
+    "static/js/2.a093c6e1.chunk.js.LICENSE.txt": "/remian-arts/static/js/2.a093c6e1.chunk.js.LICENSE.txt",
+    "static/media/1.2d479f2d.webp": "/remian-arts/static/media/1.2d479f2d.webp",
+    "static/media/1.9e346c73.jpg": "/remian-arts/static/media/1.9e346c73.jpg",
+    "static/media/2.184b08e1.webp": "/remian-arts/static/media/2.184b08e1.webp",
+    "static/media/3.19deb716.webp": "/remian-arts/static/media/3.19deb716.webp",
     "static/media/abeer.c23a74a9.webp": "/remian-arts/static/media/abeer.c23a74a9.webp",
     "static/media/farhan.1c318a8c.webp": "/remian-arts/static/media/farhan.1c318a8c.webp",
+    "static/media/golapi.ef00a16f.webp": "/remian-arts/static/media/golapi.ef00a16f.webp",
     "static/media/tausif.47ecf179.webp": "/remian-arts/static/media/tausif.47ecf179.webp",
     "static/media/zarif.6bf1a92e.webp": "/remian-arts/static/media/zarif.6bf1a92e.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.c82542b2.js",
     "static/css/2.7fccbb15.chunk.css",
-    "static/js/2.c5ac61c4.chunk.js",
-    "static/css/main.94e61351.chunk.css",
-    "static/js/main.00ba76b3.chunk.js"
+    "static/js/2.a093c6e1.chunk.js",
+    "static/css/main.489f6616.chunk.css",
+    "static/js/main.7c6538b3.chunk.js"
   ]
 }
