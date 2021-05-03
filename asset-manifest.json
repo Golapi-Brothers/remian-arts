@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/remian-arts/static/css/main.f06a4884.chunk.css",
-    "main.js": "/remian-arts/static/js/main.6ce3d6f9.chunk.js",
-    "main.js.map": "/remian-arts/static/js/main.6ce3d6f9.chunk.js.map",
+    "main.js": "/remian-arts/static/js/main.3d01c83f.chunk.js",
+    "main.js.map": "/remian-arts/static/js/main.3d01c83f.chunk.js.map",
     "runtime-main.js": "/remian-arts/static/js/runtime-main.c82542b2.js",
     "runtime-main.js.map": "/remian-arts/static/js/runtime-main.c82542b2.js.map",
     "static/css/2.7fccbb15.chunk.css": "/remian-arts/static/css/2.7fccbb15.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.7fccbb15.chunk.css",
     "static/js/2.673cada5.chunk.js",
     "static/css/main.f06a4884.chunk.css",
-    "static/js/main.6ce3d6f9.chunk.js"
+    "static/js/main.3d01c83f.chunk.js"
   ]
 }
